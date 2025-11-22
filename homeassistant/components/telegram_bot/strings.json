@@ -745,7 +745,7 @@
           "name": "Keyboard"
         },
         "message": {
-          "description": "Message body of the notification.",
+          "description": "Message body of the notification.\nCan't parse entities? Make sure your message is formatted according to the [formatting options](https://core.telegram.org/bots/api#formatting-options) or try a different parse mode.",
           "name": "Message"
         },
         "message_tag": {
